@@ -1,0 +1,33 @@
+{
+  "name": "day2-ignitereactapp",
+  "version": "1.0.0",
+  "description": "Creating react app ",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RadheWaghchaure/React-App.git"
+  },
+  "keywords": [
+    "new"
+  ],
+  "author": "radhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RadheWaghchaure/React-App/issues"
+  },
+  "homepage": "https://github.com/RadheWaghchaure/React-App#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist":[
+    "last 2 chrome version",
+    "last 2 Firefox version"
+  ]
+    
+}
